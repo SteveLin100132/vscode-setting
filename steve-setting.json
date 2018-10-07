@@ -1,0 +1,95 @@
+{
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "workbench.colorTheme": "Shades of Purple",
+    "materialTheme.fixIconsRunning": false,
+    "editor.fontSize": 18,
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "editor.fontLigatures": true,
+    "editor.renderControlCharacters": true,
+    "sync.gist": "3304b483799ebad4e63efb5ccbbfd8b4dc97d3a2",
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true,
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.lastUpload": "",
+    "sync.lastDownload": "",
+    "sync.forceDownload": false,
+    "workbench.colorCustomizations": {
+        "[Shades of Purple]": {
+            // purple-base: #222244
+            // purple-dark: #1E1E3F
+            // purple-light: #2D2B55
+            // yellow-base: #FAD000
+           
+            // 側邊欄位
+            "activityBar.background": "#222244",
+            "activityBar.border": "#222244",
+            
+            // 專案欄位
+            "sideBar.background": "#222244",
+            "sideBarSectionHeader.background": "#222244",
+
+            // 編輯器欄位
+            "editor.background": "#222244",
+
+            // 置頂欄位
+            "editorGutter.background": "#222244",
+            "editorGroupHeader.tabsBorder": "#2D2B55",
+
+            // 標籤欄位
+            "editorGroupHeader.noTabsBackground": "#222244", 
+            "editorGroupHeader.tabsBackground": "#222244",
+            "tab.activeBackground": "#2D2B55",
+            "tab.inactiveBackground": "#222244",
+
+            // 下方狀態
+            "statusBar.background": "#171731",
+
+            // 捲動條
+            "scrollbarSlider.background": "#2D2B55",
+            "scrollbarSlider.activeBackground": "#fad000cb"
+        }
+    },
+    "editor.fontFamily": "Consolas, '微軟正黑體', 'Courier New', monospace",
+    "editor.tabSize": 2,
+    "todohighlight.keywords": [
+        {
+            "text": "@CREATE",
+            "color": "#0F9D58",
+            "backgroundColor": "rgba(0,0,0,0)"
+            // "color": "#fff",
+            // "backgroundColor": "#0F9D58"
+        },
+        {
+            "text": "@MODIFY",
+            "color": "#FF9933",
+            "backgroundColor": "rgba(0,0,0,0)"
+            // "color": "#fff",
+            // "backgroundColor": "#FF9933"
+        },
+        {
+            "text": "@NOTE",
+            "color": "#007ACC",
+            "backgroundColor": "rgba(0,0,0,0)"
+            // "color": "#fff",
+            // "backgroundColor": "#007ACC"
+        },
+        {
+            "text": "DEGUB:",
+            "color": "#fff",
+            "backgroundColor": "#D00018"
+        },
+        {
+            "text": "@DOUBT",
+            "color": "#21A0A0",
+            "backgroundColor": "rgba(0,0,0,0)"
+        }
+    ],
+}
